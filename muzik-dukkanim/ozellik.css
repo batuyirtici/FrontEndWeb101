@@ -1,0 +1,19 @@
+#muzikDukkanim {color: red;}
+
+#anaSayfa
+{
+    color: blueviolet;
+    font-size: 33px;
+}
+
+a {text-decoration: none;}
+
+a:visited
+{
+    text-decoration: none;
+    color:aqua;
+}
+
+ul {list-style-type: none;} /* Madde İşaretlerini Kaldırır. */
+
+ol {list-style-type: none;} /* Madde İşaretlerini Kaldırır. */
