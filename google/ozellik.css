@@ -1,0 +1,71 @@
+body{text-align: center;} /* Sayfa Yazılarını Ortalar. */
+
+.arama-cubugu 
+{
+    width: 350px;
+    height: 15px;
+}
+.arama-cubugu-div
+{ 
+    background-color:#EEEEEE;
+    position: relative;
+    left: 60px;
+    right: 100px;
+    width: 1410px;
+}
+
+.ozel-arama
+{
+    position: relative;
+    left: 58px;
+    width: 550px;
+    border-style: solid;
+    border-color: white;
+    background-color: #7EE5DA;
+    text-align: left;
+    text-align: center;
+    float: left; /* Soldan Sağa Konumlanlandırma */
+}
+
+.help-arama 
+{
+    width: 310px;
+    height: 86px;
+    right: 6px;
+    left: 50px;
+    position: relative;
+    border-style: solid;
+    border-color: white;
+    background-color: #70CCC2;
+    float: left; /* Soldan Sağa Konumlanlandırma */
+}
+.help-arama-yazilar
+{
+    font-size: small;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.get-arama
+{
+    width: 550px;
+    height: 86px;
+    right: 6px;
+    left: 48px;
+    position: relative;
+    border-style: solid;
+    border-color: white;
+    background-color: #62B3AA;
+    float: left; /* Soldan Sağa Konumlanlandırma */
+}
+.get-arama-icerik
+{
+    margin-top: -2px;
+}
+
+.sayi
+{
+    position: relative;
+    left: 40px;
+    top: 10px;
+}
